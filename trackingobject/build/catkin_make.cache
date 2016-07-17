@@ -1,0 +1,2 @@
+tracking_object
+-DCATKIN_DEVEL_PREFIX=/home/chaycv/wkcatkin/trackingobject/devel -DCMAKE_INSTALL_PREFIX=/home/chaycv/wkcatkin/trackingobject/install -G Unix Makefiles

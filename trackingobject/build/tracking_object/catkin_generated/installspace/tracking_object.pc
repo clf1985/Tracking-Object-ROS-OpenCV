@@ -1,0 +1,8 @@
+prefix=/home/chaycv/wkcatkin/trackingobject/install
+
+Name: tracking_object
+Description: Description of tracking_object
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chaycv/wkcatkin/trackingobject/install/lib 
+Requires: 
